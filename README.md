@@ -2,6 +2,7 @@
 #  Bioinformatics & Deep Learning Technical Test
 
 This repository contains a technical test designed for evaluating proficiency in **bioinformatics**, **deep learning**, and **scientific reasoning**, particularly focused on **single-cell omics** data analysis.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vasighiz/bio-dl-test/blob/main/bio_dl_test_solution.ipynb)
 
 ![Jupyter](https://img.shields.io/badge/JupyterLab-enabled-orange)
 ![Docker](https://img.shields.io/badge/Docker-ready-blue)
