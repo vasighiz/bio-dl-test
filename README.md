@@ -9,32 +9,6 @@ This repository contains a technical test designed for evaluating proficiency in
 
 ---
 
-##  Contents
-
--  `bio_dl_test_clean.pdf` – Test instructions
--  `bio_dl_test_solution.ipynb` – Full reference solution
--  `Dockerfile` – Environment for reproducible execution
--  `requirements.txt` – Python dependencies
--  `auto_grader.py` & `auto_grader_exec.py` – Automated grading scripts
--  `pbmc3k_subset_300cells.h5ad` – (Optional) Sample dataset
--  `.github/workflows/test.yml` – Notebook testing with GitHub Actions
-
----
-
-##  Quick Start
-
-```bash
-# Clone the repo
-git clone https://github.com/<your-username>/bio-dl-test.git
-cd bio-dl-test
-
-# Build Docker image
-docker build -t bio-dl-env .
-
-# Run with JupyterLab
-docker run -p 8888:8888 -v $(pwd):/workspace bio-dl-env
-
-```
 ##  Setup Instructions
 
 ### 1. Clone and Build
