@@ -1,0 +1,10 @@
+
+scanpy
+scvi-tools
+torch
+matplotlib
+seaborn
+notebook
+jupyterlab
+pandas
+numpy
