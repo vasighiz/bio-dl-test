@@ -1,10 +1,10 @@
-# 🧪 Bioinformatics + Deep Learning Technical Test
+#  Bioinformatics + Deep Learning Technical Test
 
 Welcome! This test evaluates your practical and theoretical knowledge in **bioinformatics**, **deep learning**, and **scientific communication**, specifically in the context of **single-cell data analysis** and **generative AI**.
 
 ---
 
-## 📅 Instructions
+##  Instructions
 - Total time: **24 hours**
 - Submit: A Jupyter notebook and a brief report (markdown or PDF)
 - Include: All code, visualizations, and explanations inline
@@ -12,7 +12,7 @@ Welcome! This test evaluates your practical and theoretical knowledge in **bioin
 
 ---
 
-## 🧪 PART 1: Single-cell RNA-seq Analysis (Scanpy)
+##  PART 1: Single-cell RNA-seq Analysis (Scanpy)
 
 **Goal:** Preprocess and analyze scRNA-seq data.
 
@@ -32,7 +32,7 @@ Welcome! This test evaluates your practical and theoretical knowledge in **bioin
 
 ---
 
-## 🤖 PART 2: Deep Learning Model (Autoencoder or scVI)
+## PART 2: Deep Learning Model (Autoencoder or scVI)
 
 **Goal:** Apply deep learning to dimensionality reduction and reconstruction.
 
@@ -46,7 +46,7 @@ Welcome! This test evaluates your practical and theoretical knowledge in **bioin
 
 ---
 
-## 🧬 PART 3: Multi-Omics Integration (Mini Task)
+##  PART 3: Multi-Omics Integration (Mini Task)
 
 **Goal:** Show theoretical and practical knowledge of omics integration.
 
@@ -56,7 +56,7 @@ Welcome! This test evaluates your practical and theoretical knowledge in **bioin
 
 ---
 
-## 📚 PART 4: Scientific Reasoning + Communication
+##  PART 4: Scientific Reasoning + Communication
 
 ### Tasks:
 1. You observed poor clustering between two biologically similar cell types:
