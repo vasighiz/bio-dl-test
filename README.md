@@ -8,7 +8,6 @@ This repository contains a technical test designed for evaluating proficiency in
 
 ![Jupyter](https://img.shields.io/badge/JupyterLab-enabled-orange)
 ![Docker](https://img.shields.io/badge/Docker-ready-blue)
-![License](https://img.shields.io/github/license/vasighiz/bio-dl-test)
 
 ---
 
