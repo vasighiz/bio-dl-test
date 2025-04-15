@@ -1,5 +1,5 @@
 
-# 🐳 Bioinformatics + Deep Learning Test Environment (Docker)
+#  Bioinformatics + Deep Learning Test Environment (Docker)
 
 ## 🔧 Setup Instructions
 
@@ -22,7 +22,7 @@ Use the token printed in terminal.
 
 ---
 
-## 📁 Included
+##  Included
 
 - `bio_dl_test_solution.ipynb`: Full solution
 - `pbmc3k_subset_300cells.h5ad`: Lightweight test dataset
