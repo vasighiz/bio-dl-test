@@ -1,7 +1,7 @@
 
 #  Bioinformatics + Deep Learning Test Environment (Docker)
 
-## 🔧 Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone and Build
 ```bash
