@@ -11,7 +11,7 @@ This repository contains a technical test designed for evaluating proficiency in
 
 ##  Contents
 
--  `bio_dl_test_clean.pdf` – Candidate test instructions
+-  `bio_dl_test_clean.pdf` – Test instructions
 -  `bio_dl_test_solution.ipynb` – Full reference solution
 -  `Dockerfile` – Environment for reproducible execution
 -  `requirements.txt` – Python dependencies
