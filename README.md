@@ -34,7 +34,7 @@ docker build -t bio-dl-env .
 # Run with JupyterLab
 docker run -p 8888:8888 -v $(pwd):/workspace bio-dl-env
 
-
+```
 ##  Setup Instructions
 
 ### 1. Clone and Build
