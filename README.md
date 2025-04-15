@@ -1,7 +1,7 @@
 
-# Test template: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vasighiz/bio-dl-test/blob/main/bio_dl_test_template.ipynb)
+### Test template [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vasighiz/bio-dl-test/blob/main/bio_dl_test_template.ipynb)
 
-# Solution: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vasighiz/bio-dl-test/blob/main/bio_dl_test_solution.ipynb)
+### Solution [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vasighiz/bio-dl-test/blob/main/bio_dl_test_solution.ipynb)
 #  Bioinformatics & Deep Learning Technical Test
 
 This repository contains a technical test designed for evaluating proficiency in **bioinformatics**, **deep learning**, and **scientific reasoning**, particularly focused on **single-cell omics** data analysis.
