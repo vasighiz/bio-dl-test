@@ -67,7 +67,7 @@ Welcome! This test evaluates your practical and theoretical knowledge in **bioin
 
 ---
 
-## ✅ Submission Checklist
+##  Submission Checklist
 
 - [ ] Jupyter Notebook with code and outputs
 - [ ] Short report/abstract with biological interpretations
