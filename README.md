@@ -1,7 +1,5 @@
 
-#### Test template  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vasighiz/bio-dl-test/blob/main/bio_dl_test_template.ipynb)
-
-#### Solution  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vasighiz/bio-dl-test/blob/main/solution.ipynb)
+#### Test template  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vasighiz/bio-dl-test/blob/main/bio_dl_test_template.ipynb) and #### Solution  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vasighiz/bio-dl-test/blob/main/solution.ipynb)
 
 After applying changes, run the following cmd before pushing to github:
 ```bash
