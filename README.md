@@ -4,6 +4,10 @@
 #### Solution  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vasighiz/bio-dl-test/blob/main/solution.ipynb)
 #  Bioinformatics & Deep Learning Technical Test
 
+After applying changes, run the following cmd before pushing to github:
+python -m nbconvert --ClearMetadataPreprocessor.enabled=True --ClearOutputPreprocessor.enabled=True --to notebook --output cleaned_solution.ipynb solution.ipynb
+
+
 This repository contains a technical test designed for evaluating proficiency in **bioinformatics**, **deep learning**, and **scientific reasoning**, particularly focused on **single-cell omics** data analysis.
 
 
